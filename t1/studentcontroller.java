@@ -3,7 +3,7 @@ public class studentcontroller {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("Vijay controller ");
+		System.out.println("Enpt Vijay controller ");
 		
 
 	}
