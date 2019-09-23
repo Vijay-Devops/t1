@@ -9,7 +9,6 @@ public class studentcontroller {
 		System.out.println("vignesh gcontroller111fcd2");
 		System.out.println("vignesh controller111fcd21eeeee");
 
-
 	}
 
 }
