@@ -8,7 +8,6 @@ public class studentcontroller {
 		System.out.println("vignesh aaaaaaaaqqqqqqqqqqqqcontroller111fcd2");
 		System.out.println("vignesh gcontroller111fcd2");
 		System.out.println("vignesh controller111fcd21eeeee");
-		System.out.println("if you are bad im your dad");
 
 	}
 
